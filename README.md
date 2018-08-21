@@ -6,4 +6,4 @@
 
 # Resources:
   - check in link: http://go.illinois.edu/GACI
-  - ta resources in link: go.illinois.edu/TAresources
+  - ta resources in link: http://go.illinois.edu/TAresources
